@@ -8,8 +8,8 @@ export default function myNavbar() {
                 <div className="left font-bold text-2xl">SecureChain</div>
                 <div className="middle flex flex-row gap-8">
                     <button>Home</button>
-                    <button>About</button>
-                    <button>Shop</button>
+                    <button>Docs</button>
+                    <button>Pricing</button>
                 </div>
                 <div className="right">
                     <button className="join-now-btn p-2 bg-white text-black rounded-full">Join Now!</button>
